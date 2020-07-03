@@ -9,16 +9,20 @@ OUTPUT IMAGES:
 
 
  <br />
+ 
 # Code part
 
 
  <br />
-## For installing libraries:    <br />
+ 
+## For installing libraries:   
+<br />
 conda install -c anaconda pillow  <br />
 conda install -c conda-forge matplotlib  <br />
 conda install -c anaconda seaborn  <br />
 conda install tensorflow  <br />
 
 
-## For running server:  <br />
+## For running server: 
+<br />
 python manage.py runserver  <br />
