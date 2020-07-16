@@ -5,38 +5,6 @@ The dataset which we used to train our data consisted of tweet along with the or
 ## Dataset link : https://arxiv.org/pdf/2004.04225.pdf
 
  <br />
-OUTPUT IMAGES:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <br />
  
 # Code part
 
