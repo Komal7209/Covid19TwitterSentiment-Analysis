@@ -45,4 +45,4 @@ All Files link : https://drive.google.com/drive/folders/1PzMCkXa3VQy1cj36E2ulXMN
 6. https://www.researchgate.net/profile/Kia_Jahanbin2/publication/339770709_Using_twitter_and_web_news_mining_to_predict_COVID-19_outbreak/links/5e84d4db4585150839b508b7/Using-twitter-and-web-news-mining-to-predict-COVID-19-outbreak.pdf </br>
 7. https://arxiv.org/pdf/2003.12309 </br>
 8. https://arxiv.org/pdf/2004.04225 </br>
-9.https://towardsdatascience.com/how-are-americans-reacting-to-covid-19-700eb4d5b597?source=rss----7f60cf5620c9---4 </br>
+9. https://towardsdatascience.com/how-are-americans-reacting-to-covid-19-700eb4d5b597?source=rss----7f60cf5620c9---4 </br>
