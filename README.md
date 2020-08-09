@@ -34,3 +34,15 @@ Video Link : https://drive.google.com/file/d/1LYOSQZQHyf8ZVZgsoek9iCeLQJCBde99/v
 Sample text to be test: https://drive.google.com/file/d/1D_1HkI-xMGVw1PotbrnCsSswF8Byvbis/view?usp=sharing
 
 All Files link : https://drive.google.com/drive/folders/1PzMCkXa3VQy1cj36E2ulXMNXDTC2R6jk?usp=sharing
+
+
+## Research Papers for documentation
+http://www.cs.columbia.edu/~julia/papers/Agarwaletal11.pdf    </br>
+https://towardsdatascience.com/twitter-sentiment-analysis-based-on-news-topics-during-covid-19-c3d738005b55   </br>
+https://arxiv.org/pdf/2003.05004    </br>
+https://www.jmir.org/2020/4/e19016  </br>
+https://arxiv.org/pdf/2003.10359 </br>
+https://www.researchgate.net/profile/Kia_Jahanbin2/publication/339770709_Using_twitter_and_web_news_mining_to_predict_COVID-19_outbreak/links/5e84d4db4585150839b508b7/Using-twitter-and-web-news-mining-to-predict-COVID-19-outbreak.pdf </br>
+https://arxiv.org/pdf/2003.12309 </br>
+https://arxiv.org/pdf/2004.04225 </br>
+https://towardsdatascience.com/how-are-americans-reacting-to-covid-19-700eb4d5b597?source=rss----7f60cf5620c9---4 </br>
