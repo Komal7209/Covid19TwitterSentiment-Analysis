@@ -35,6 +35,13 @@ conda install tensorflow  <br />
 <br />
 python manage.py runserver  <br />
 
+## Frontend Backend integration
+~ using function
+~ connections made and call in url.py
+~ functions in views.py
+~ url activate in html file
+
+html(activation of function)-> url(cheking function) -> views.py(checking function definition)
 
 
 # Content
