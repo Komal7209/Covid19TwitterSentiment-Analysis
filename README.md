@@ -3,7 +3,7 @@ In this project we had worked for Covid19 Twitter Sentiment Analysis. <br />
 The dataset which we used to train our data consisted of tweet along with the original user sentiment at time of tweet. From a survey it also consisted of time taken for writing tweet and  1-10 scale for each individual feeling used
 
 
-## Prerequisite:
+##  Prerequisite:
 
 ### Present Work
 1. Knowledge of Django (This project used Django as framework)
@@ -23,7 +23,7 @@ The dataset which we used to train our data consisted of tweet along with the or
 
  <br />
  
-## For installing libraries:   
+## 1. For installing libraries:   
 <br />
 conda install -c anaconda pillow  <br />
 conda install -c conda-forge matplotlib  <br />
@@ -31,15 +31,15 @@ conda install -c anaconda seaborn  <br />
 conda install tensorflow  <br />
 
 
-## For running server: 
+##  For running server: 
 <br />
 python manage.py runserver  <br />
 
-## Frontend Backend integration
-~ using function
-~ connections made and call in url.py
-~ functions in views.py
-~ url activate in html file
+###  Frontend Backend integration
+~ using function </br>
+~ connections made and call in url.py  </br>
+~ functions in views.py  </br>
+~ url activate in html file  </br>
 
 html(activation of function)-> url(cheking function) -> views.py(checking function definition)
 
