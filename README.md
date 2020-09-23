@@ -4,11 +4,13 @@ The dataset which we used to train our data consisted of tweet along with the or
 
 
 ## Prerequisite:
+
+### Present Work
 1. Knowledge of Django (This project used Django as framework)
 2. Knowledge of RNN (Bidirectional LSTM) Algorithm
 3. Knowledge of NLP
  
- Further modifications:
+### Further modifications:
 4. Twitter developer id (for live sentiment analysis)
 5. Knowledge of IBM Cloud (for deployment)
 
