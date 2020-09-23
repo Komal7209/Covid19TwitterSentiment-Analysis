@@ -23,6 +23,32 @@ conda install tensorflow  <br />
 <br />
 python manage.py runserver  <br />
 
+
+
+# Content
+
+### Frontend content :
+                      Main->Static Folder-> Trial Analysis2
+                      Main-> Templates->Html 
+### Django files:      
+                   Main-> Twwet_Dashboard-> models.py->(forms)
+                                           urls.py->(paths for webpages)
+                                           views.py-> (working functions of backend)
+                                           Management-> commands-> bluemix_init.py(for hosting) 
+                                           
+### Jupyter notebooks: 
+                       Jupyter_notebooks->Multifeeling_value.ipynb( For multiple sentences/lines output)
+                                        ->twwet_me.ipynb ( For single line output )
+                                     
+### for preprocessing 
+                       tokenizer-> tokenizer_SAVED_OOV.pickle   (tokenize (oov token)) 
+                       (padding fn)[in jupyter notebook]
+                       
+### For dataset:
+                 dataset->hell.csv
+### For weights:
+                  weights-> multi_traget_feeling.hdf5 (multiple feelings for a particular text as outcome as bar graph in dashboard)
+                         -> first_model_feeling1longonly_NEWMAIN.hdf5(single feeling as a summary of multiline text)
 ## Some Documents:
 
 Documentation link : https://drive.google.com/file/d/1E4MIv14svusdBCJkg6E3bNFCsnhkysSj/view?usp=sharing
@@ -42,7 +68,7 @@ All Files link : https://drive.google.com/drive/folders/1PzMCkXa3VQy1cj36E2ulXMN
 3. https://arxiv.org/pdf/2003.05004    </br>
 4. https://www.jmir.org/2020/4/e19016  </br>
 5. https://arxiv.org/pdf/2003.10359 </br>
-6. https://www.researchgate.net/profile/Kia_Jahanbin2/publication/339770709_Using_twitter_and_web_news_mining_to_predict_COVID-19_outbreak/links/5e84d4db4585150839b508b7/Using-twitter-and-web-news-mining-to-predict-COVID-19-outbreak.pdf </br>
+6. https://www.researchgate.net/profile/Kia_Jahanbin2/publication/339770709_Using_twitter_and_web_news_mining_to_predict_COVID-19_outbreak/links/5e84d4db4585150839b508b7/Using-    twitter-and-web-news-mining-to-predict-COVID-19-outbreak.pdf </br>
 7. https://arxiv.org/pdf/2003.12309 </br>
 8. https://arxiv.org/pdf/2004.04225 </br>
 9. https://towardsdatascience.com/how-are-americans-reacting-to-covid-19-700eb4d5b597?source=rss----7f60cf5620c9---4 </br>
